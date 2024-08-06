@@ -74,19 +74,15 @@ PRODUCT_PACKAGES += \
     libmediaadaptor \
     libpixeldisplaymanager_jni \
     VZWAPNLib \
-    AICorePrebuilt \
     AppDirectedSMSService \
     CarrierSettings_signed_45.0.591154042 \
     CarrierWifi \
     ConnMO \
     DCMO \
     DMService \
-    DeviceIntelligenceNetworkPrebuilt-v.U.14.playstore \
-    DevicePersonalizationPrebuiltPixel2023-v.U.14.playstore \
     DiagMon \
     EuiccGoogle \
     HardwareInfo \
-    HealthIntelligenceStubPrebuilt \
     HotwordEnrollmentOKGoogleFUSIONPro \
     HotwordEnrollmentXGoogleFUSIONPro \
     OemDmTrigger \
