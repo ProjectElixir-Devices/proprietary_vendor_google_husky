@@ -600,7 +600,6 @@ PRODUCT_PACKAGES += \
     ConnMO \
     DCMO \
     DMService \
-    DeviceIntelligenceNetworkPrebuilt-astrea_20240329.00_RC02 \
     DevicePersonalizationPrebuiltPixel2023-playstore_aiai_20250306.00_RC10 \
     DiagMon \
     EuiccGoogle \
